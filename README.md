@@ -3,3 +3,7 @@
 # NixOS Config Files
 
 Used for school, coding, etc.
+
+## Setup
+
+Run `bash link.sh` to symlink NixOS folders.
