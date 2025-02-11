@@ -9,7 +9,7 @@
     vscode
     discord
     fastfetch
-    git
+    git # TODO: remove once home-manager is setup
     discord
     nixfmt-rfc-style # Nix language formatter
   ];
