@@ -4,6 +4,8 @@
   imports = [
     ./hardware.nix
     ./packages.nix
+    # ./home.nix
+    ./matlab.nix
   ];
 
   # Bootloader

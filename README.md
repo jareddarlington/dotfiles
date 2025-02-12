@@ -7,3 +7,9 @@ Used for school, coding, etc.
 ## Setup
 
 Run `bash link.sh` to symlink NixOS folders.
+
+## Resources
+
+### MATLAB Setup
+
+-   Repo about [installing MATLAB imperatively on NixOS](https://github.com/nyadiia/nix-matlab) (working Feb 2025).
